@@ -4,9 +4,7 @@ Boilerplate for ML Projects
 # Steps:
 
 1. Create new folder named 'input' in project directory
-
 2. Place data files for model in input folder
-
 3. Update src/config.py with paths, models, other params
 
 - Perform exploration using notebooks in notebook         direcotory
